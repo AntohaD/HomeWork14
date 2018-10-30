@@ -1,0 +1,97 @@
+[
+    {
+        "id": 1,
+        "nameCases": "fruits and vegs",
+        "cases": [
+            {
+                "id": 11,
+                "products": [
+                    {
+                        "nameProduct": "яблоки",
+                        "titles": [
+                            {
+                                "nameTitle": "голден",
+                                "units": "kg",
+                                "quantity": 20,
+                                "price": 25
+                            },
+                            {
+                                "nameTitle": "семеренко",
+                                "units": "kg",
+                                "quantity": 10,
+                                "price": 15
+                            }
+                        ]
+                    },
+                    {
+                        "nameProduct": "апельсины",
+                        "titles": [
+                            {
+                                "nameTitle": "сорт1",
+                                "units": "kg",
+                                "quantity": 25,
+                                "price": 40
+                            },
+                            {
+                                "nameTitle": "сорт2",
+                                "units": "kg",
+                                "quantity": 30,
+                                "price": 55
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 12,
+                "products": [
+                    {
+                        "nameProduct": "манго",
+                        "titles": [
+                            {
+                                "nameTitle": "крупный",
+                                "units": "unit",
+                                "quantity": 20,
+                                "price": 50
+                            },
+                            {
+                                "nameTitle": "средний",
+                                "units": "unit",
+                                "quantity": 25,
+                                "price": 40
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nameCases": "fruits and vegs",
+        "cases": [
+            {
+                "id": 21,
+                "products": [
+                    {
+                        "nameProduct": "сельдь",
+                        "titles": [
+                            {
+                                "nameTitle": "финская",
+                                "units": "kg",
+                                "quantity": 30,
+                                "price": 80
+                            },
+                            {
+                                "nameTitle": "норвежская",
+                                "units": "pack",
+                                "quantity": 10,
+                                "price": 40
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
